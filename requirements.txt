@@ -1,0 +1,4 @@
+python-telegram-bot==2.8.7
+requests==2.8.1
+redis==2.10.3
+psycopg2
